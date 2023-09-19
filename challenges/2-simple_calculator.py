@@ -1,3 +1,6 @@
+# 2. Simple Calculator
+# Create a basic calculator that can perform addition, subtraction, multiplication, and division based on user input.
+
 # Define the arithmetic functions
 def add(x, y):
     return x + y
